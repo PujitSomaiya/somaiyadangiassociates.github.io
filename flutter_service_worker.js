@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "d2d295e6913cf88141e017aae9616792",
-"assets/AssetManifest.bin.json": "d6b2a003d511a5e1998d2498f560702d",
-"assets/AssetManifest.json": "2bfd44041baa0fc61db10e7ee3be5245",
+const RESOURCES = {"assets/AssetManifest.bin": "aa4e635292b331500badf2e4b13938bf",
+"assets/AssetManifest.bin.json": "ad22d38df29de866759020ab9c9c8b33",
+"assets/AssetManifest.json": "2919612627ee310fad8ebe0697b3f2eb",
 "assets/assets/images/bg_image_1.jpg": "be93e607554e9f8643817406883edb18",
 "assets/assets/images/contact_us_animation.json": "c74fb9c1019f29c847a3d420142a0dc1",
 "assets/assets/images/gaurav_sign.jpeg": "1b4d4a5ac6f7d23b047fe9985938fb72",
@@ -17,10 +17,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "d2d295e6913cf88141e017aae9616792
 "assets/assets/images/img_office_4.jpg": "0d7f26590be726ce262ff619eb3455a4",
 "assets/assets/images/img_person_computer.png": "a16b3b42f08849d1c1b7cd7ea395a233",
 "assets/assets/images/img_shivamgauravphoto.jpg": "33a6a461d73636356dfddaf315f817c3",
+"assets/assets/images/mining_animaion.json": "a2c52f20f2ba9b842e49900592ac09e1",
 "assets/assets/images/shivam_sign.jpeg": "c24de32d0a99b91a58f58eb2fea21bd4",
 "assets/assets/images/skateboard_guy.png": "095911a3aa298395090c7cba6cb60a74",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "1d25379c5dfa175d87d103cb852b87e2",
+"assets/fonts/MaterialIcons-Regular.otf": "18be8ccea521a4a1fa49251be8bb5567",
 "assets/NOTICES": "dc696e61cff8979f653ac5173c5483c2",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
@@ -38,14 +39,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "d2d295e6913cf88141e017aae9616792
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "05bb2297ddc88dad2d72c6b66bb00ba0",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "c7071f9b0f2d3928121dda5d6fd3c37f",
+"flutter_bootstrap.js": "cabfefaf3f1f861af8e02ca64e653cc6",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "95b7f6a1240836401f78fa47c342c92d",
 "/": "95b7f6a1240836401f78fa47c342c92d",
-"main.dart.js": "ce77540bcb7258bda2257abcb82be761",
+"main.dart.js": "cda9d8ed92ffc0172578f25047e62d19",
 "manifest.json": "43a2368418e8a904793b9c3da1f55e5e",
 "version.json": "63c6fb8e195865214114a166a28654f9"};
 // The application shell files that are downloaded before a service worker can
